@@ -34,7 +34,7 @@ Vote: Alice
 Alice
 ```
 
-How to Run
+## How to Run
 
 Compile and run using GCC with the CS50 library:
 ```bash
